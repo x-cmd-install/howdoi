@@ -7,7 +7,7 @@ about:
   head: 033dd3c
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T20:01:50Z
+  collectedAt: 2026-09-04T20:38:25Z
 timeline:
   created: 2012-11-22
   lastCommit: 2024-10-22
@@ -81,5 +81,53 @@ total:
   openIssue: 17
   commit: 984
 ---
+path: /home/runner/.x-repo/github.com/gleitz/howdoi
+collectedAt: 2026-09-04T20:38:27Z
+loc:
+  Json:
+    code: 5058
+    comments: 0
+    blanks: 2
+    files: 6
+  Python:
+    code: 1051
+    comments: 85
+    blanks: 268
+    files: 7
+  TypeScript:
+    code: 421
+    comments: 43
+    blanks: 62
+    files: 10
+  Yaml:
+    code: 42
+    comments: 0
+    blanks: 5
+    files: 1
+  Autoconf:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 1
+  Jupyter:
+    code: 0
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 643
+    blanks: 312
+    files: 16
+  Text:
+    code: 0
+    comments: 209
+    blanks: 48
+    files: 7
+total:
+  code: 6629
+  comments: 980
+  blanks: 702
+  files: 49
 ---
 
