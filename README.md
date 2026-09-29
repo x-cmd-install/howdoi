@@ -31,8 +31,8 @@ Overall score: **3 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (2/10) — Found 4/16 approved changesets -- score normalized to 2
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,845 · **Forks**: 860 · **Open issues**: 267 · **Contributors**: 73
+- **Stars**: 10,843 · **Forks**: 860 · **Open issues**: 267 · **Contributors**: 73
 
 ## Totals (cumulative)
 
@@ -52,12 +52,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-30 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 90d | 2026-06-30 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-04-01 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-10-03 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last720d | 2024-10-08 | 0 | 1 | 1 | 2 | 1 | 2 |
+| 30d | 2026-08-30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-31 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 90d | 2026-07-01 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-04-02 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-10-04 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last720d | 2024-10-09 | 0 | 1 | 1 | 2 | 1 | 2 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for howdoi lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:37:59Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T07:11:59Z._
