@@ -1,44 +1,5 @@
-- repo: raspbian_stable
-  subrepo: main
-  srcname: howdoi
-  binnames:
-    - howdoi
-  visiblename: howdoi
-  version: 1.1.9
-  origversion: 1.1.9-1.1
-  status: outdated
-  maintainers:
-    - lucas.moura128@gmail.com
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: howdoi
-  binnames:
-    - howdoi
-  visiblename: howdoi
-  version: 1.1.9
-  origversion: 1.1.9-1.1
-  status: outdated
-  maintainers:
-    - lucas.moura128@gmail.com
-  categories:
-    - misc
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: howdoi
-  binnames:
-    - howdoi
-  visiblename: howdoi
-  version: 1.1.9
-  origversion: 1.1.9-1
-  status: outdated
-  maintainers:
-    - lucas.moura128@gmail.com
-  categories:
-    - misc
-- repo: pureos_byzantium
-  subrepo: byzantium/main
+- repo: devuan_4_0
+  subrepo: chimaera/main
   srcname: howdoi
   binnames:
     - howdoi
@@ -124,19 +85,6 @@
     - lucas.moura128@gmail.com
   categories:
     - misc
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: howdoi
-  binnames:
-    - howdoi
-  visiblename: howdoi
-  version: 1.1.9
-  origversion: 1.1.9-1
-  status: outdated
-  maintainers:
-    - lucas.moura128@gmail.com
-  categories:
-    - misc
 - repo: gentoo
   srcname: dev-util/howdoi
   visiblename: dev-util/howdoi
@@ -210,7 +158,59 @@
     - lucas.moura128@gmail.com
   categories:
     - misc
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: howdoi
+  binnames:
+    - howdoi
+  visiblename: howdoi
+  version: 1.1.9
+  origversion: 1.1.9-1
+  status: outdated
+  maintainers:
+    - lucas.moura128@gmail.com
+  categories:
+    - misc
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: howdoi
+  binnames:
+    - howdoi
+  visiblename: howdoi
+  version: 1.1.9
+  origversion: 1.1.9-1
+  status: outdated
+  maintainers:
+    - lucas.moura128@gmail.com
+  categories:
+    - misc
 - repo: raspbian_oldstable
+  subrepo: main
+  srcname: howdoi
+  binnames:
+    - howdoi
+  visiblename: howdoi
+  version: 1.1.9
+  origversion: 1.1.9-1.1
+  status: outdated
+  maintainers:
+    - lucas.moura128@gmail.com
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: howdoi
+  binnames:
+    - howdoi
+  visiblename: howdoi
+  version: 1.1.9
+  origversion: 1.1.9-1.1
+  status: outdated
+  maintainers:
+    - lucas.moura128@gmail.com
+  categories:
+    - misc
+- repo: raspbian_testing
   subrepo: main
   srcname: howdoi
   binnames:
@@ -320,6 +320,21 @@
     - universe/misc
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: howdoi
+  binnames:
+    - howdoi
+  visiblename: howdoi
+  version: 2.0.20
+  origversion: 2.0.20-2
+  status: newest
+  maintainers:
+    - team+salvage@tracker.debian.org
+    - lucas.moura128@gmail.com
+    - tille@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: howdoi
   binnames:
     - howdoi
