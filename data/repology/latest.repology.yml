@@ -1,16 +1,10 @@
-- repo: devuan_4_0
-  subrepo: chimaera/main
+- repo: homebrew
   srcname: howdoi
-  binnames:
-    - howdoi
   visiblename: howdoi
-  version: 1.1.9
-  origversion: 1.1.9-1
-  status: outdated
-  maintainers:
-    - lucas.moura128@gmail.com
-  categories:
-    - misc
+  version: 2.0.20
+  origversion: null
+  status: newest
+  summary: Instant coding answers via the command-line
 - repo: aur
   srcname: howdoi
   binname: howdoi
@@ -61,17 +55,6 @@
     - lucas.moura128@gmail.com
   categories:
     - misc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: howdoi
-  binnames:
-    - howdoi
-  visiblename: howdoi
-  version: 1.1.9
-  origversion: 1.1.9-1
-  status: outdated
-  maintainers:
-    - lucas.moura128@gmail.com
 - repo: deepin_25
   subrepo: community
   srcname: howdoi
@@ -80,6 +63,19 @@
   visiblename: howdoi
   version: 1.1.9
   origversion: 1.1.9-1.1
+  status: outdated
+  maintainers:
+    - lucas.moura128@gmail.com
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: howdoi
+  binnames:
+    - howdoi
+  visiblename: howdoi
+  version: 1.1.9
+  origversion: 1.1.9-1
   status: outdated
   maintainers:
     - lucas.moura128@gmail.com
@@ -98,13 +94,6 @@
     - MIT
   categories:
     - dev-util
-- repo: homebrew
-  srcname: howdoi
-  visiblename: howdoi
-  version: 2.0.20
-  origversion: null
-  status: newest
-  summary: Instant coding answers via the command-line
 - repo: liguros_stable
   srcname: dev-util/howdoi
   visiblename: dev-util/howdoi
